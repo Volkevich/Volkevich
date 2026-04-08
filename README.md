@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vitaly Volkevich
 ========================================================================================================================================
 
-Kotlin/Java/ Python/Android developer and Security Engineer
+Kotlin/Java/ Python/Security Engineer
 -----------------------------------------------------------
 
 By day, I am a versatile developer, fluent in Java, Kotlin, and Python, crafting robust Android applications, microservices, and parsers for state systems. By night, I transform into a cybersecurity sentinel, leveraging my expertise from the Ministry of Internal Affairs. I’ve thwarted hackers, fortified defenses, and ensured the digital safety of countless systems. My skills include detecting, preventing, and responding to various cyber threat. Knowledge of OWASP TOP 10, OWASP Mobile TOP 10 and CWE TOP 25. I used Burp Suite.
@@ -17,7 +17,6 @@ By day, I am a versatile developer, fluent in Java, Kotlin, and Python, crafting
 class Developer:
         String name = "Vitaly";
         String role = "Java/Kotlin Developer";
-        String role_1 = "Android Developer";
         String role_2 = "Python Developer";
         Long experience = 4;
         String [] language_spoken = {"ru_RU", "en_US"};
