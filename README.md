@@ -1,67 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vitaly Volkevich
-========================================================================================================================================
+# Hi, I'm Vitali Valkevich 👋
 
-Kotlin/Java/ Python/Security Engineer
------------------------------------------------------------
+**Lead Backend Engineer · Technical Project Manager · AppSec**
 
-By day, I am a versatile developer, fluent in Java, Kotlin, and Python, crafting robust microservices and parsers for state systems. By night, I transform into a cybersecurity sentinel, leveraging my expertise from the Ministry of Internal Affairs. I've thwarted hackers, fortified defenses, and ensured the digital safety of countless systems. My skills include detecting, preventing, and responding to various cyber threats. Knowledge of OWASP TOP 10, OWASP Mobile TOP 10 and CWE TOP 25. I used Burp Suite.
+13+ years building high-throughput backend systems: 20+ microservices in Kotlin, Java and Python on Kafka and PostgreSQL. I also build production on-premise RAG pipelines and AI agents, and I have a deep background in Application Security and incident response.
 
-🌍 I'm based in Minsk
+📍 Minsk, Belarus
+✉️ vitalyvolkevich@gmail.com
+🗣️ Russian (native), English (B1)
 
-✉️ You can contact me at vitalyvolkevich@gmail.com
+## What I do
 
-🧠 I'm learning blockchain projects, ktor, SDL, Fuzzing, SAST, CPS, K8S: Kubernetes
+- 🏗️ **Backend & architecture**: microservices, event-driven systems, legacy modernization (3x throughput gain)
+- 🤖 **AI / ML**: RAG pipelines, autonomous agents, vector search (Qdrant, pgvector), observability with Langfuse
+- 🔐 **AppSec**: OWASP Top 10 / ASVS, SAST/DAST in CI/CD, Keycloak (OAuth2/OIDC), threat modeling, security audits
+- 🚨 **DFIR**: on-site cyber incident response; led a team to **1st place in the National Cyber Defense Exercises (2025)**
+- 📋 **Tech PM**: from requirements and architecture to production delivery
 
-🤝 I'm open to collaborating on Blockchain projects, Telegram Apps, Spring projects
+## Tech stack
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-```Java, Kotlin, Python, Security engineer, AppSec.
-# -*- coding: utf-8 -*-
-class Developer:
-        String name = "Vitaly";
-        String role = "Java/Kotlin Developer";
-        String role_2 = "Python Developer";
-        Long experience = 4;
-        String [] language_spoken = {"ru_RU", "en_US"};
-class Security Engineer: 
-        private String[] skills = {
-        "OWASP TOP 10",
-        "OWASP Mobile TOP 10",
-        "CWE TOP 25",
-        "Burp Suite",
-        "Penetration Testing",
-        "Vulnerability Assessment",
-        "Threat Modeling",
-        "Secure Code Review",
-        "Incident Response",
-        "Risk Management",
-        "Security Audits",
-        "Cryptography",
-        "Network Security",
-        "Compliance and Regulatory Requirements",
-        "Security Awareness Training",
-        "Application Security",
-        "Cloud Security",
-        "DevSecOps"};
-        Long experience = 5;
-```
-![](https://komarev.com/ghpvc/?username=volkevich&style=for-the-badge)
-### Skills
+**AI/ML:** LangChain · LlamaIndex · vLLM · Ollama · Hugging Face · Qdrant · pgvector · Langfuse
+**Security:** Semgrep · SonarQube · Burp Suite · Keycloak · Cryptography · DFIR
+**Observability:** Prometheus · Grafana · OpenTelemetry · ELK
 
+## Education & certificates
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
+- 🎓 M.S. in Artificial Intelligence, BSUIR (in progress, 2028)
+- 🎓 B.S. in Software Engineering, BSUIR (2023)
+- 🏅 Hack The Box Academy: AppSec & InfoSec (2025)
+- 🏅 National Cyber Defense Exercises: 1st place (2025)
 
-### ![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=Kotlin&logoColor=blue) ![Spring Java](https://img.shields.io/badge/Spring_Java-green?style=for-the-badge&logo=Spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-darkblue?style=for-the-badge&logo=Blockchain.com&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![mySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-<H3> Never stop learning, because life never stops teaching.
-<H3> - 🔭 Blockchain projects, trading bots,bots for popular people.</H3>
-<H3> - 🪪 Many years of experience in investigating cyber incidents.</H3>
-<H3> - 🤔 I can help you in writing Telegram bots, analysis of logs and dumps, databases. Create Android apps. Contact me, I love interesting tasks.</H3>
-<H3> - 🔐 I will help you with your company's security audit. </H3>
+## Open to
 
-### Socials
+- Freelance: Telegram bots, business automation, backend systems
+- Collaboration on AI/RAG, Kotlin/Spring and security projects
 
-<p align="left"> <a href="https://www.linkedin.com/in/vitali-volkevich-000645236/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Connect
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitali-volkevich-000645236/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
